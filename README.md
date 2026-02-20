@@ -9,7 +9,7 @@ I am a Software Developer & Industrial Engineer from Colombia with more than 4 y
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jfvr/) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/felipevalr?style=social&link=https%3A%2F%2Fx.com%2Ffelipevalr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jfvr/) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/felipevalr?style=social)](https://x.com/felipevalr)
 
 
 # 💻 Tech Stack
